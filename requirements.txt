@@ -1,0 +1,5 @@
+# FastHTML: Python web framework (0.14.x branch)
+python-fasthtml~=0.14.30
+
+# ASGI server; Railpack uses it to choose the uvicorn main:app start command
+uvicorn[standard]~=0.54
